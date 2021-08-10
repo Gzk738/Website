@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>reuixiy</title>
-        <link>https://gzk738.github.io/website/en/</link>
+        <link>https://io-oi.me/en/</link>
         <description>Blog of reuixiy in English.</description>
         <generator>Hugo 0.86.1 https://gohugo.io/</generator>
         
@@ -23,9 +23,9 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 10 Aug 2021 20:17:05 &#43;0900</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 20:47:56 &#43;0900</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://gzk738.github.io/website/en/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://io-oi.me/en/rss.xml" />
         
         
     </channel>
