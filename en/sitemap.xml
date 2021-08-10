@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://io-oi.me/en/about/</loc>
-    <lastmod>2021-08-10T23:25:30+09:00</lastmod>
+    <loc>https://gzk738.github.io/website/en/about/</loc>
+    <lastmod>2019-08-20T14:36:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://io-oi.me/about/"
+                href="https://gzk738.github.io/website/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://io-oi.me/en/about/"
+                href="https://gzk738.github.io/website/en/about/"
                 />
   </url><url>
-    <loc>https://io-oi.me/en/</loc>
-    <lastmod>2021-08-10T23:25:30+09:00</lastmod>
+    <loc>https://gzk738.github.io/website/en/</loc>
+    <lastmod>2019-08-20T14:36:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://io-oi.me/"
+                href="https://gzk738.github.io/website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://io-oi.me/en/"
+                href="https://gzk738.github.io/website/en/"
                 />
   </url>
 </urlset>
