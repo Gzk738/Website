@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
-
-baseURL = "https://gzk738.github.io/website/"
-title = "Hugo 主题 MemE"
+baseURL = "https://example.com/"
+#baseURL = "https://gzk738.github.io/website/"
+title = "gzk"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
