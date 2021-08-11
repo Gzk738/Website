@@ -2,11 +2,11 @@
 # 站点配置
 baseURL = "https://example.com/"
 #baseURL = "https://gzk738.github.io/website/"
-title = "gzk"
+title = "자곤"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+copyright = "hello world"
 
 # 主题选择
 theme = "meme"
@@ -92,9 +92,9 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "자곤"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "gzk798412226@gmail.com"
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
@@ -102,7 +102,7 @@ uglyURLs = false
     # 网站（默认值：baseURL）
     website = "https://io-oi.me/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "gzk"
 
 # 相关文章
 [related]
@@ -192,20 +192,20 @@ uglyURLs = false
     #     pre = "internal"
     #     post = "home"
     [[menu.main]]
-        url = "/posts/"
-        name = "文章"
+    #    url = "/posts/"
+    #    name = "文章"
         weight = 2
-        pre = "internal"
-        post = "archive"
+    #    pre = "internal"
+    #    post = "archive"
     [[menu.main]]
-        url = "/categories/"
-        name = "分类"
+        url = "/tech/"
+        name = "技术"
         weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
-        url = "/tags/"
-        name = "标签"
+        url = "/life/"
+        name = "生活"
         weight = 4
         pre = "internal"
         post = "tags"
@@ -305,11 +305,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["我知你饱览过名山大川", "而我只是江南一座低矮的青山", "但轻舟过万重", "青山依旧在"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -334,7 +334,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "这是자곤的生活与技术博客"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -457,7 +457,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    # mainSections = ["posts"]
+    mainSections = ["tags", "catgoris"]
 
 
     ######################################
@@ -1147,7 +1147,7 @@ uglyURLs = false
     # 文章的标签
 
     # 是否开启
-    enablePostTags = true
+    enablePostTags = false
 
     # 标签的图标
     postTagsIcon = "tag"
@@ -1229,7 +1229,7 @@ uglyURLs = false
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
     displaySiteCopyright = true
