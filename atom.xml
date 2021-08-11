@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">reuixiy</title>
     <subtitle type="html">这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</subtitle>
-    <updated>2021-08-10T22:48:23&#43;09:00</updated>
+    <updated>2021-08-11T16:31:53&#43;09:00</updated>
     <id>https://gzk738.github.io/website/</id>
     <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/" />
     <link rel="self" type="application/atom&#43;xml" href="https://gzk738.github.io/website/atom.xml" />
@@ -16,6 +16,53 @@
             </author>
     <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
     <generator uri="https://gohugo.io/" version="0.86.1">Hugo</generator>
+        <entry>
+            <title type="text">科学 VS 宗教</title>
+            <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-heroes/" />
+            <id>https://gzk738.github.io/website/life/the-heroes/</id>
+            <updated>2021-08-11T16:30:18&#43;09:00</updated>
+            <published>2021-08-10T19:10:57&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">最近以为朋友拉着我去基督教会，原因是有一天我在吐槽我的语言太差，想要提升语言，又没有……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/ftgwqJ&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/08/10/ftgwqJ.png&#34; alt=&#34;ftgwqJ.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近以为朋友拉着我去基督教会，原因是有一天我在吐槽我的语言太差，想要提升语言，又没有时间每天去语学院&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://gzk738.github.io/website/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://gzk738.github.io/website/tags/introspection/" term="introspection" label="introspection" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">工厂模式</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/tech/factory-method-pattern/" />
@@ -277,7 +324,7 @@
             <title type="text">CS50 Lecture by Mark Zuckerberg</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/tech/cs50-lecture-by-mark-zuckerberg/" />
             <id>https://gzk738.github.io/website/tech/cs50-lecture-by-mark-zuckerberg/</id>
-            <updated>2021-07-19T00:42:08&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2021-07-18T22:46:45&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -360,7 +407,7 @@
             <title type="text">The Talented Mr. Ripley</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-talented-mr-ripley/" />
             <id>https://gzk738.github.io/website/life/the-talented-mr-ripley/</id>
-            <updated>2021-07-13T18:45:11&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2021-07-12T22:18:45&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -446,7 +493,7 @@
             <title type="text">1921</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/1921/" />
             <id>https://gzk738.github.io/website/life/1921/</id>
-            <updated>2021-07-11T17:13:34&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2021-07-10T23:47:02&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -511,7 +558,7 @@
             <title type="text">音乐回忆</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/music-recollection/" />
             <id>https://gzk738.github.io/website/life/music-recollection/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2021-07-07T00:50:08&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -615,7 +662,7 @@
             <title type="text">遐想</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/free-wandering/" />
             <id>https://gzk738.github.io/website/life/free-wandering/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2021-07-05T22:14:07&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -678,7 +725,7 @@
             <title type="text">第一次辞职</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/resigned-my-first-job/" />
             <id>https://gzk738.github.io/website/life/resigned-my-first-job/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2021-07-03T18:18:21&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -802,7 +849,7 @@
             <title type="text">进化</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/evolution/" />
             <id>https://gzk738.github.io/website/life/evolution/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2021-06-30T00:24:16&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -879,7 +926,7 @@
             <title type="text">Pierrot le Fou</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/pierrot-le-fou/" />
             <id>https://gzk738.github.io/website/life/pierrot-le-fou/</id>
-            <updated>2021-06-27T14:39:39&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2021-06-25T00:32:06&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -1070,7 +1117,7 @@
             <title type="text">Apple Music</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/apple-music/" />
             <id>https://gzk738.github.io/website/life/apple-music/</id>
-            <updated>2021-07-10T10:43:41&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2021-06-10T21:49:46&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -1120,7 +1167,7 @@
             <title type="text">TikTok</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/tech/tiktok/" />
             <id>https://gzk738.github.io/website/tech/tiktok/</id>
-            <updated>2021-06-16T12:05:03&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2021-06-01T22:56:00&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -1455,7 +1502,7 @@ to find each other and to feel.&lt;br&gt;
             <title type="text">上蹿下跳</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/upside-down/" />
             <id>https://gzk738.github.io/website/life/upside-down/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2021-03-03T18:59:55&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -1511,7 +1558,7 @@ to find each other and to feel.&lt;br&gt;
             <title type="text">足球</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/football/" />
             <id>https://gzk738.github.io/website/life/football/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2021-02-12T12:46:06&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -1741,7 +1788,7 @@ git clone --depth &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; https://github.co
             <title type="text">Road to Ruin</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/road-to-ruin/" />
             <id>https://gzk738.github.io/website/life/road-to-ruin/</id>
-            <updated>2021-01-10T23:43:24&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2021-01-10T23:36:36&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -1787,7 +1834,7 @@ git clone --depth &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; https://github.co
             <title type="text">二〇二一</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/2021/" />
             <id>https://gzk738.github.io/website/life/2021/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2021-01-01T22:29:07&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -2053,7 +2100,7 @@ git clone --depth &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; https://github.co
             <title type="text">奥黛丽·赫本</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/audrey-hepburn/" />
             <id>https://gzk738.github.io/website/life/audrey-hepburn/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-12-21T22:52:26&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -2648,7 +2695,7 @@ git push
             <title type="text">酷玩与耳机</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/coldplay-slash-headphones/" />
             <id>https://gzk738.github.io/website/life/coldplay-slash-headphones/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-07-19T23:12:25&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -2709,7 +2756,7 @@ git push
             <title type="text">第一个周末</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/my-first-weekend-of-my-first-job/" />
             <id>https://gzk738.github.io/website/life/my-first-weekend-of-my-first-job/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-07-12T09:42:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -2764,7 +2811,7 @@ git push
             <title type="text">两种延时摄影</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/two-different-types-of-timelapse/" />
             <id>https://gzk738.github.io/website/life/two-different-types-of-timelapse/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-07-04T22:44:36&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -2940,7 +2987,7 @@ cat README.md
             <title type="text">淡然自得</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/zen/" />
             <id>https://gzk738.github.io/website/life/zen/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-07-02T11:39:52&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -2997,7 +3044,7 @@ cat README.md
             <title type="text">夜店</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/nightclub/" />
             <id>https://gzk738.github.io/website/life/nightclub/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-06-25T07:53:44&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3059,7 +3106,7 @@ cat README.md
             <title type="text">二〇二〇</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/2020/" />
             <id>https://gzk738.github.io/website/life/2020/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-06-09T21:39:05&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3115,7 +3162,7 @@ cat README.md
             <title type="text">风流豪杰</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-heroes/" />
             <id>https://gzk738.github.io/website/life/the-heroes/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-05-08T19:10:57&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3163,7 +3210,7 @@ cat README.md
             <title type="text">没事多刷碗</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/its-okay-to-wash-the-dishes/" />
             <id>https://gzk738.github.io/website/life/its-okay-to-wash-the-dishes/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-04-24T22:00:50&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3218,7 +3265,7 @@ cat README.md
             <title type="text">太空人</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/spaceman/" />
             <id>https://gzk738.github.io/website/life/spaceman/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-04-17T23:15:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3273,7 +3320,7 @@ cat README.md
             <title type="text">Stalker</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/stalker/" />
             <id>https://gzk738.github.io/website/life/stalker/</id>
-            <updated>2020-04-11T16:22:25&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2020-04-10T18:31:10&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3420,7 +3467,7 @@ A somber, dull call of desire.&lt;/p&gt;
             <title type="text">善良</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-good/" />
             <id>https://gzk738.github.io/website/life/the-good/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-04-04T11:17:45&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3480,7 +3527,7 @@ A somber, dull call of desire.&lt;/p&gt;
             <title type="text">心境</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/mood/" />
             <id>https://gzk738.github.io/website/life/mood/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-04-04T03:29:19&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3612,7 +3659,7 @@ INFURA_KEY
             <title type="text">沉入深海</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/sink-into-the-deep-sea/" />
             <id>https://gzk738.github.io/website/life/sink-into-the-deep-sea/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-03-31T23:03:34&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3673,7 +3720,7 @@ INFURA_KEY
             <title type="text">Star Trek: Picard</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/star-trek-picard/" />
             <id>https://gzk738.github.io/website/life/star-trek-picard/</id>
-            <updated>2021-07-01T14:33:03&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2020-03-28T09:17:47&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3772,7 +3819,7 @@ INFURA_KEY
             <title type="text">南柯一梦</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/just-a-dream/" />
             <id>https://gzk738.github.io/website/life/just-a-dream/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-03-24T19:29:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3936,7 +3983,7 @@ INFURA_KEY
             <title type="text">带叶子的胡萝卜</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/carrots-with-leaves/" />
             <id>https://gzk738.github.io/website/life/carrots-with-leaves/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-03-20T20:54:21&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -3984,7 +4031,7 @@ INFURA_KEY
             <title type="text">宁静致远</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/peace/" />
             <id>https://gzk738.github.io/website/life/peace/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-03-16T20:22:48&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -4037,7 +4084,7 @@ INFURA_KEY
             <title type="text">The Piano</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-piano/" />
             <id>https://gzk738.github.io/website/life/the-piano/</id>
-            <updated>2020-03-15T21:29:19&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2020-03-15T19:55:34&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -4094,7 +4141,7 @@ INFURA_KEY
             <title type="text">Out of the Box</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/out-of-the-box/" />
             <id>https://gzk738.github.io/website/life/out-of-the-box/</id>
-            <updated>2020-03-20T21:44:10&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2020-03-15T15:18:21&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -4148,7 +4195,7 @@ INFURA_KEY
             <title type="text">把一生看作整体</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/life-as-one/" />
             <id>https://gzk738.github.io/website/life/life-as-one/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-03-13T21:26:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -4214,7 +4261,7 @@ INFURA_KEY
             <title type="text">哲学家</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/philosopher/" />
             <id>https://gzk738.github.io/website/life/philosopher/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-03-13T08:43:51&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -4268,7 +4315,7 @@ INFURA_KEY
             <title type="text">红日</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-red-giant/" />
             <id>https://gzk738.github.io/website/life/the-red-giant/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-03-10T20:25:25&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -4942,7 +4989,7 @@ body {
             <title type="text">人生十分美妙</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/life-is-wonderful/" />
             <id>https://gzk738.github.io/website/life/life-is-wonderful/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-02-18T18:42:08&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5008,7 +5055,7 @@ body {
             <title type="text">记一次骑行</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/cycling/" />
             <id>https://gzk738.github.io/website/life/cycling/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-02-17T17:40:14&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5080,7 +5127,7 @@ body {
             <title type="text">庄子和圣奥古斯丁</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/chuang-tzu-and-saint-augustine/" />
             <id>https://gzk738.github.io/website/life/chuang-tzu-and-saint-augustine/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-02-13T14:13:24&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5168,7 +5215,7 @@ body {
             <title type="text">7,000 RPM</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/7000-rpm/" />
             <id>https://gzk738.github.io/website/life/7000-rpm/</id>
-            <updated>2020-04-11T01:32:07&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2020-02-08T00:44:30&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5254,7 +5301,7 @@ The only question that matters.&lt;br&gt;
             <title type="text">Miss Americana</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/miss-americana/" />
             <id>https://gzk738.github.io/website/life/miss-americana/</id>
-            <updated>2020-04-11T01:32:07&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2020-02-01T02:11:49&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5419,7 +5466,7 @@ The only question that matters.&lt;br&gt;
             <title type="text">单纯地喜欢</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/purely-in-liking/" />
             <id>https://gzk738.github.io/website/life/purely-in-liking/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-01-31T06:23:11&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5478,7 +5525,7 @@ The only question that matters.&lt;br&gt;
             <title type="text">我为什么要学哲学？</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/why-do-i-study-philosophy/" />
             <id>https://gzk738.github.io/website/life/why-do-i-study-philosophy/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-01-26T23:38:41&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5541,7 +5588,7 @@ The only question that matters.&lt;br&gt;
             <title type="text">草稿本、作文、周记</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/drafts-compositions-and-weekly-diaries/" />
             <id>https://gzk738.github.io/website/life/drafts-compositions-and-weekly-diaries/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-01-19T12:39:58&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5633,7 +5680,7 @@ The only question that matters.&lt;br&gt;
             <title type="text">心灵与灵魂</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/soul-and-spirit/" />
             <id>https://gzk738.github.io/website/life/soul-and-spirit/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-01-12T20:32:36&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5693,7 +5740,7 @@ The only question that matters.&lt;br&gt;
             <title type="text">不及格声明</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/statement-of-flunking/" />
             <id>https://gzk738.github.io/website/life/statement-of-flunking/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2020-01-07T10:42:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -5855,7 +5902,7 @@ What is philosophy of philosophy of philosophy of philosophy?&lt;br&gt;
             <title type="text">过年</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-spring-festival/" />
             <id>https://gzk738.github.io/website/life/the-spring-festival/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2019-12-16T13:46:01&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -6003,7 +6050,7 @@ What is philosophy of philosophy of philosophy of philosophy?&lt;br&gt;
             <title type="text">概念之困</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/thinking-inside-the-box/" />
             <id>https://gzk738.github.io/website/life/thinking-inside-the-box/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2019-12-02T23:17:35&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -6166,7 +6213,7 @@ What is philosophy of philosophy of philosophy of philosophy?&lt;br&gt;
             <title type="text">记两场直播</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/record-two-livestreams/" />
             <id>https://gzk738.github.io/website/life/record-two-livestreams/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2019-11-23T10:14:29&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -6273,7 +6320,7 @@ What is philosophy of philosophy of philosophy of philosophy?&lt;br&gt;
             <title type="text">A Fistful of Dollars</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/a-fistful-of-dollars/" />
             <id>https://gzk738.github.io/website/life/a-fistful-of-dollars/</id>
-            <updated>2019-11-22T00:59:18&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2019-11-21T23:56:48&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -6344,7 +6391,7 @@ What is philosophy of philosophy of philosophy of philosophy?&lt;br&gt;
             <title type="text">The Colossus of Rhodes</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-colossus-of-rhodes/" />
             <id>https://gzk738.github.io/website/life/the-colossus-of-rhodes/</id>
-            <updated>2019-11-22T00:58:38&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2019-11-19T21:52:49&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -6851,7 +6898,7 @@ graph TD;
             <title type="text">写在面试之后</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/after-my-first-job-interview/" />
             <id>https://gzk738.github.io/website/life/after-my-first-job-interview/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2019-10-26T10:30:03&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -6901,7 +6948,7 @@ graph TD;
             <title type="text">记人生第一次招聘面试</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/record-my-first-job-interview/" />
             <id>https://gzk738.github.io/website/life/record-my-first-job-interview/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2019-10-18T17:25:45&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -6956,7 +7003,7 @@ graph TD;
             <title type="text">毕业烦心事</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/annoying-things-before-college-graduation/" />
             <id>https://gzk738.github.io/website/life/annoying-things-before-college-graduation/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2019-10-16T11:27:43&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -7886,7 +7933,7 @@ $ ipfs repo gc
             <title type="text">Powered by Hugo</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/tech/powered-by-hugo/" />
             <id>https://gzk738.github.io/website/tech/powered-by-hugo/</id>
-            <updated>2020-03-07T13:42:22&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2019-08-20T18:10:05&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -8021,7 +8068,7 @@ $ ipfs repo gc
             <title type="text">Titanic</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/titanic/" />
             <id>https://gzk738.github.io/website/life/titanic/</id>
-            <updated>2020-04-11T01:32:07&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2019-06-30T23:19:33&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -8090,7 +8137,7 @@ $ ipfs repo gc
             <title type="text">The Secret Life of Walter Mitty</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-secret-life-of-walter-mitty/" />
             <id>https://gzk738.github.io/website/life/the-secret-life-of-walter-mitty/</id>
-            <updated>2020-03-14T09:24:41&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2019-06-13T23:03:46&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -8475,7 +8522,7 @@ to find each other and to feel.&lt;br&gt;
             <title type="text">Ad Astra</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/ad-astra/" />
             <id>https://gzk738.github.io/website/life/ad-astra/</id>
-            <updated>2020-01-09T03:51:59&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2019-04-12T03:14:54&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -8690,7 +8737,7 @@ font:
             <title type="text">Hello, Arch Linux!</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/tech/hello-arch-linux/" />
             <id>https://gzk738.github.io/website/tech/hello-arch-linux/</id>
-            <updated>2021-01-21T19:50:22&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2018-12-11T01:46:06&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -10065,7 +10112,7 @@ $ sudo vim /etc/default/grub
             <title type="text">谈谈读书笔记</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/of-reading-notes/" />
             <id>https://gzk738.github.io/website/life/of-reading-notes/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2018-10-01T22:46:03&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -10120,7 +10167,7 @@ $ sudo vim /etc/default/grub
             <title type="text">Nike - Dream Crazy</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/nike-dream-crazy/" />
             <id>https://gzk738.github.io/website/life/nike-dream-crazy/</id>
-            <updated>2020-04-11T01:32:07&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2018-09-08T11:07:08&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -10619,7 +10666,7 @@ It’s only crazy until you do it.&lt;/p&gt;&lt;/blockquote&gt;
             <title type="text">安知鱼之乐？</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/you-are-not-a-fish/" />
             <id>https://gzk738.github.io/website/life/you-are-not-a-fish/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2018-08-26T14:13:56&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -10687,7 +10734,7 @@ It’s only crazy until you do it.&lt;/p&gt;&lt;/blockquote&gt;
             <title type="text">Speed of Sound</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/speed-of-sound/" />
             <id>https://gzk738.github.io/website/life/speed-of-sound/</id>
-            <updated>2020-04-11T01:32:07&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2018-07-26T07:12:17&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -11680,7 +11727,7 @@ module.exports = ( inPost, inOptions, inHexo ) =&amp;gt; {
             <title type="text">Troy</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/troy/" />
             <id>https://gzk738.github.io/website/life/troy/</id>
-            <updated>2020-04-11T01:32:07&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2018-05-08T23:07:00&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -11741,7 +11788,7 @@ Will strangers hear our names long after we’re gone...&lt;br&gt;
             <title type="text">Playerunknown’s Battlegrounds</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/pubg/" />
             <id>https://gzk738.github.io/website/life/pubg/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2018-04-29T18:14:55&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -11790,7 +11837,7 @@ Will strangers hear our names long after we’re gone...&lt;br&gt;
             <title type="text">Begin Again</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/begin-again/" />
             <id>https://gzk738.github.io/website/life/begin-again/</id>
-            <updated>2019-08-20T14:00:19&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2018-04-21T00:47:06&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -11842,7 +11889,7 @@ Will strangers hear our names long after we’re gone...&lt;br&gt;
             <title type="text">Pride and Prejudice</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/pride-and-prejudice/" />
             <id>https://gzk738.github.io/website/life/pride-and-prejudice/</id>
-            <updated>2020-01-16T16:06:02&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2018-04-11T01:45:33&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -11913,7 +11960,7 @@ Will strangers hear our names long after we’re gone...&lt;br&gt;
             <title type="text">《冰与火之歌》</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/a-song-of-ice-and-fire/" />
             <id>https://gzk738.github.io/website/life/a-song-of-ice-and-fire/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2018-01-11T18:17:54&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -12304,7 +12351,7 @@ update-grub
             <title type="text">童话</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/fairy-tale/" />
             <id>https://gzk738.github.io/website/life/fairy-tale/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-10-28T20:31:27&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -13016,7 +13063,7 @@ Exec=env LD_LIBRARY_PATH=/opt/Qt5.8.0/5.8/gcc_64/lib netease-cloud-music %U --no
             <title type="text">一个看到 2:40 头皮发麻的广告</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/a-touching-tv-commercial/" />
             <id>https://gzk738.github.io/website/life/a-touching-tv-commercial/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-09-23T00:30:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -13062,7 +13109,7 @@ Exec=env LD_LIBRARY_PATH=/opt/Qt5.8.0/5.8/gcc_64/lib netease-cloud-music %U --no
             <title type="text">Cassini’s Grand Finale</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/cassinis-grand-finale/" />
             <id>https://gzk738.github.io/website/life/cassinis-grand-finale/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-09-22T22:49:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -13246,7 +13293,7 @@ Exec=env LD_LIBRARY_PATH=/opt/Qt5.8.0/5.8/gcc_64/lib netease-cloud-music %U --no
             <title type="text">你有你的 freestyle 吗？</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/robot-do-you-have-your-freestyle/" />
             <id>https://gzk738.github.io/website/life/robot-do-you-have-your-freestyle/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-08-30T06:21:07&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -13313,7 +13360,7 @@ Dream will be flying 要探寻算法秘密&lt;/p&gt;
             <title type="text">突如其来的小壁虎</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/a-little-gecko-come-suddenly/" />
             <id>https://gzk738.github.io/website/life/a-little-gecko-come-suddenly/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-08-27T08:40:00&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -13469,7 +13516,7 @@ Dream will be flying 要探寻算法秘密&lt;/p&gt;
             <title type="text">痛苦地死亡</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/die-of-anguished/" />
             <id>https://gzk738.github.io/website/life/die-of-anguished/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-07-19T01:05:47&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -13523,7 +13570,7 @@ Dream will be flying 要探寻算法秘密&lt;/p&gt;
             <title type="text">国家地理 Genius 之 Einstein</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/national-geographic-genius-einstein/" />
             <id>https://gzk738.github.io/website/life/national-geographic-genius-einstein/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-07-17T20:05:47&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -13574,7 +13621,7 @@ Dream will be flying 要探寻算法秘密&lt;/p&gt;
             <title type="text">何为不忘初心？</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/on-remember-your-original-intention/" />
             <id>https://gzk738.github.io/website/life/on-remember-your-original-intention/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-07-17T11:11:47&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15284,7 +15331,7 @@ highlight:
             <title type="text">通过比特币赚了￥500</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/earn-money-through-bitcoin/" />
             <id>https://gzk738.github.io/website/life/earn-money-through-bitcoin/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-06-07T11:54:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15349,7 +15396,7 @@ highlight:
             <title type="text">定格在了那一秒</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/one-frozen-second/" />
             <id>https://gzk738.github.io/website/life/one-frozen-second/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-05-30T15:12:38&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15402,7 +15449,7 @@ highlight:
             <title type="text">Coldplay - Lost&#43; ft. Jay-Z</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/coldplay-lost&#43;/" />
             <id>https://gzk738.github.io/website/life/coldplay-lost&#43;/</id>
-            <updated>2020-02-24T10:46:13&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2017-04-28T07:37:21&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15564,7 +15611,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">Danny MacAskill’s Wee Day Out</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/danny-macaskills-wee-day-out/" />
             <id>https://gzk738.github.io/website/life/danny-macaskills-wee-day-out/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-03-11T10:34:03&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15610,7 +15657,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">过去和未来</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/notnow/" />
             <id>https://gzk738.github.io/website/life/notnow/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-02-07T17:38:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15753,7 +15800,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">童年</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/childhood/" />
             <id>https://gzk738.github.io/website/life/childhood/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2017-01-28T18:31:55&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15821,7 +15868,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">Always In My Head</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/always-in-my-head/" />
             <id>https://gzk738.github.io/website/life/always-in-my-head/</id>
-            <updated>2020-01-16T16:06:02&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2017-01-17T20:03:40&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15882,7 +15929,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">浅谈学哲学：那珍贵的喜悦</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/learning-philosophy/" />
             <id>https://gzk738.github.io/website/life/learning-philosophy/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2016-12-29T02:43:05&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -15949,7 +15996,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">自讽</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/self-irony/" />
             <id>https://gzk738.github.io/website/life/self-irony/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2016-12-07T00:31:55&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -16002,7 +16049,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">致校宣传部学长学姐们的一封道歉信</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/a-special-letter-of-apology/" />
             <id>https://gzk738.github.io/website/life/a-special-letter-of-apology/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2016-10-31T12:55:35&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -16072,7 +16119,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">书写</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/writing/" />
             <id>https://gzk738.github.io/website/life/writing/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2016-10-31T10:01:55&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -16121,7 +16168,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">性格决定命运？</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/against-disposition/" />
             <id>https://gzk738.github.io/website/life/against-disposition/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2016-07-05T10:46:56&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -16195,7 +16242,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">人生第一次演讲：尼采</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/life/the-first-speech-friedrich-nietzsche/" />
             <id>https://gzk738.github.io/website/life/the-first-speech-friedrich-nietzsche/</id>
-            <updated>2021-08-06T01:15:38&#43;09:00</updated>
+            <updated>2021-08-11T00:02:38&#43;09:00</updated>
             <published>2016-04-21T11:19:10&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -16358,7 +16405,7 @@ Oh Oh Oh Oh Oh&lt;/p&gt;
             <title type="text">Hello, World!</title>
             <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/tech/hello-world/" />
             <id>https://gzk738.github.io/website/tech/hello-world/</id>
-            <updated>2020-02-24T10:46:13&#43;08:00</updated>
+            <updated>2021-08-10T23:25:30&#43;09:00</updated>
             <published>2010-01-01T00:00:00&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
