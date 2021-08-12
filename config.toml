@@ -1,12 +1,12 @@
 ##########################################
 # 站点配置
-baseURL = "https://example.com/"
+#baseURL = "https://example.com/"
 #baseURL = "https://gzk738.github.io/website/"
 title = "자곤"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "hello world"
+copyright = "Copyright Hugo"
 
 # 主题选择
 theme = "meme"
@@ -96,11 +96,11 @@ uglyURLs = false
     # 邮箱
     email = "gzk798412226@gmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "hello world"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://gzk738.github.io/website/"
     # 推特
     twitter = "gzk"
 
@@ -309,7 +309,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["我知你饱览过名山大川", "而我只是江南一座低矮的青山", "但轻舟过万重", "青山依旧在"]
+    homePoetry = ["我希望你读很多书", "走很远的路"," 我希望你爱很多人","也被很多人爱。 我希望你走过人山人海","也遍览山河湖海","我希望你看纸质书","送手写的祝福"," 我要你独立坚强温暖明亮","我要你在这寡淡的世上","深情的活"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -339,11 +339,11 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "1996-07-20T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = "gzk"
     # 说明：用于 Twitter Cards
 
 

@@ -4,7 +4,7 @@ date: 2021-08-11T22:43:59+09:00
 draft: true
 ---
 <h1 align = "center">关于</h1>
-你好，我是자곤，欢迎你光临我的网站。
+你好，我是자곤，欢迎你来到我的网站。
 
 <img src=https://z3.ax1x.com/2021/08/12/fdKWUs.jpg width="300"/>
 
