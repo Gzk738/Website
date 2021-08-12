@@ -197,15 +197,15 @@ uglyURLs = false
         weight = 2
     #    pre = "internal"
     #    post = "archive"
-    [[menu.main]]
-        url = "/tech/"
-        name = "技术"
-        weight = 3
-        pre = "internal"
-        post = "th"
+    #[[menu.main]]
+    #    url = "/tech/"
+     #   name = "技术"
+    #    weight = 3
+     #   pre = "internal"
+     #   post = "th"
     [[menu.main]]
         url = "/life/"
-        name = "生活"
+        name = "文章"
         weight = 4
         pre = "internal"
         post = "tags"
