@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">자곤</title>
     <subtitle type="html">这是자곤的生活与技术博客</subtitle>
-    <updated>2021-08-13T00:04:32&#43;09:00</updated>
-    <id>https://gzk738.github.io/website/</id>
-    <link rel="alternate" type="text/html" href="https://gzk738.github.io/website/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://gzk738.github.io/website/atom.xml" />
+    <updated>2021-09-06T15:20:04&#43;09:00</updated>
+    <id>/</id>
+    <link rel="alternate" type="text/html" href="/" />
+    <link rel="self" type="application/atom&#43;xml" href="/atom.xml" />
     <author>
             <name>자곤</name>
-            <uri>https://gzk738.github.io/</uri>
+            <uri>/</uri>
             
                 <email>gzk798412226@gmail.com</email>
             </author>

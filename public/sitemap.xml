@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gzk738.github.io/website/about/</loc>
+    <loc>/life/</loc>
+    <lastmod>2021-09-06T15:17:08+09:00</lastmod>
+  </url><url>
+    <loc>/life/%E7%9F%BF%E5%B7%A5/</loc>
+    <lastmod>2021-09-06T15:17:08+09:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-09-06T15:17:08+09:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
     <lastmod>2021-08-12T17:46:12+09:00</lastmod>
   </url><url>
-    <loc>https://gzk738.github.io/website/tech/</loc>
+    <loc>/tech/</loc>
     <lastmod>2021-08-12T17:46:12+09:00</lastmod>
   </url><url>
-    <loc>https://gzk738.github.io/website/tech/categories/</loc>
+    <loc>/tech/categories/</loc>
     <lastmod>2021-08-12T17:46:12+09:00</lastmod>
   </url><url>
-    <loc>https://gzk738.github.io/website/</loc>
+    <loc>/life/%E7%A7%91%E5%AD%A6vs%E5%AE%97%E6%95%99/</loc>
     <lastmod>2021-08-13T00:03:00+09:00</lastmod>
   </url><url>
-    <loc>https://gzk738.github.io/website/life/</loc>
-    <lastmod>2021-08-13T00:03:00+09:00</lastmod>
-  </url><url>
-    <loc>https://gzk738.github.io/website/life/first/</loc>
-    <lastmod>2021-08-13T00:03:00+09:00</lastmod>
-  </url><url>
-    <loc>https://gzk738.github.io/website/life/categories/</loc>
+    <loc>/life/categories/</loc>
     <lastmod>2021-08-12T22:58:09+09:00</lastmod>
   </url><url>
-    <loc>https://gzk738.github.io/website/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://gzk738.github.io/website/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

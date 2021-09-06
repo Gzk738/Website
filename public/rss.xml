@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>자곤</title>
-        <link>https://gzk738.github.io/website/</link>
+        <link>/</link>
         <description>这是자곤的生活与技术博客</description>
         <generator>Hugo 0.86.1 https://gohugo.io/</generator>
         
@@ -23,9 +23,9 @@
         
             <copyright>Copyright Hugo</copyright>
         
-        <lastBuildDate>Fri, 13 Aug 2021 00:04:32 &#43;0900</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 15:20:04 &#43;0900</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://gzk738.github.io/website/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="/rss.xml" />
         
         
     </channel>
